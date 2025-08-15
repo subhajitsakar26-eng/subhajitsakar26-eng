@@ -186,27 +186,17 @@
 
 ---
 
-<h1>
-  i really like music :headphones:
-</h1>
+## 🎵 My Favorite Playlist
 
-<!-- Nothing weird to see here -->
 <p align="center">
-  <a href="https://readme.andyruwruw.com/api/now-playing?open">
-    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
-    <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/now-playing.svg">
-    <!-- This is how you'd make the call dynamically <img src="https://readme.andyruwruw.com/api/now-playing"> -->
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="50" style="vertical-align:middle;"/>
+  <a href="https://open.spotify.com/playlist/2VInJrpDJ67aiCIDDY7WQP?si=HHYUjePFRRqr9WtagtCjOg" target="_blank" style="font-size:18px; font-weight:bold; text-decoration:none; color:#1DB954;">Listen on Spotify</a>
+</p>
+
+<p align="center">
+  <a href="https://open.spotify.com/playlist/2VInJrpDJ67aiCIDDY7WQP?si=HHYUjePFRRqr9WtagtCjOg">
+    <img src="https://img.shields.io/badge/Spotify-Listen%20Now-1DB954?logo=spotify&style=for-the-badge" alt="Spotify Playlist Badge" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/top-played.svg">
-  <!-- This is how you'd make the call dynamically <img src="https://readme.andyruwruw.com/api/top-played"> -->
-</p>
- 
-<p align="center">
-  <!-- He came up with the idea of HOW to show React components as an img on a README.md and the now playing component! -->
-  <i>inspired by <a href="https://github.com/natemoo-re">natemoo-re</a></i>
 </p>
 
 <p align="center">
