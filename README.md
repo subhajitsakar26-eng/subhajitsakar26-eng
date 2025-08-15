@@ -1,6 +1,4 @@
-<details> 
-  <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Subhajit+Sarkar!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Subhajit+Sarkar!;" />
 </h1>
 
 <h3 align="center">A passionate software developer from India </h3>
@@ -24,6 +22,8 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
+<details> 
+  <h1 align="center">
 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
 
