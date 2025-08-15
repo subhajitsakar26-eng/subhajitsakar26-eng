@@ -1,4 +1,30 @@
 <details> 
+  <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Subhajit+Sarkar!;" />
+</h1>
+
+<h3 align="center">A passionate software developer from India </h3>
+
+<br/>
+
+<div align="center">
+ 
+ 🌱 I’m currently learning **Docker, Supabase, AWS**
+
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:subhajit.sarkar0407@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/subhajit-cmd/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://subhajit-cmd.github.io/my-porfolio-website/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
 
 - **VS Code** – My main coding playground  
@@ -12,7 +38,13 @@
 </details>
 
 ---
-
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=subhajitsakar26-eng&show_icons=true&theme=radical&count_private=true" height="165" />
@@ -39,12 +71,6 @@
 - 🎵 Lofi beats fuel my coding sessions  
 - 🚴‍♂️ “Commit often, commit early” is my motto  
 - ⚡ Always exploring **new technologies & frameworks**  
-
----
-
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
 
 ---
 
