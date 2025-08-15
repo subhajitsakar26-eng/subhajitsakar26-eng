@@ -43,7 +43,7 @@
 ---
 
 ## 💡 Fun Facts
-- 🐱 Cat lover; code runs better with coffee ☕  
+- 🐶 Dog lover; code runs better with coffee ☕  
 - 🎵 Lofi beats fuel my coding sessions  
 - 🚴‍♂️ Believe in “Commit often, commit early”  
 - ⚡ Always exploring **new technologies & frameworks**  
