@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="assets/banner.png" alt="Subhajit Sarkar Banner" />
+<!--   <img src="assets/banner.png" alt="Subhajit Sarkar Banner" /> -->
 </p>
 
 <h1 align="center">Hi 👋 I'm Subhajit Sarkar</h1>
