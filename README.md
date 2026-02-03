@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋 I'm Subhajit Sarkar</h1>
-<h3 align="center">21 y/o Developer | BCA Graduate | Learning MERN Stack</h3>
+<h3 align="center">22 y/o Developer | BCA Graduate | Learning MERN Stack</h3>
 
 ---
 
