@@ -65,7 +65,6 @@
 
 ---
 
----
 
 ## 🙋 More About Me
 I love exploring how things work — whether it’s a piece of code, a machine, or a tool.  
