@@ -69,6 +69,18 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=subhajitsakar26-eng&show_icons=true&theme=tokyonight" alt="stats" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhajitsakar26-eng&layout=compact&theme=tokyonight" alt="langs" height="150"/>
+  ## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=subhajitsakar26-eng&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=subhajitsakar26-eng&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=subhajitsakar26-eng&theme=tokyonight&hide_border=true&stroke=FF0000&background=000000&ring=FF0000&fire=FF0000&currStreakNum=FF0000&sideNums=FF0000&currStreakLabel=FF0000&sideLabels=FF0000&dates=FF0000" alt="GitHub Streak" />
+</p>
 </p>
 
 ---
